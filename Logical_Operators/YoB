@@ -1,0 +1,9 @@
+var Yob=1998;
+var curruent_year=2020;
+age= curruent_year-Yob;
+if(age>=13 && age<=19){
+  cansole.log("Teenage");
+}
+else if(age>=20 && age<=29){
+  console.log("Twenties");
+}
