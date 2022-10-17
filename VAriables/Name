@@ -1,0 +1,6 @@
+var name="Prasad";
+console.log(name);
+var name="Machhindra";
+console.log(name);
+var name="Mina";
+console.log(name);
